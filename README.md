@@ -1,2 +1,2 @@
 # Nike website
-This is my project Nike website clone.
+This is my Nike website clone project.
